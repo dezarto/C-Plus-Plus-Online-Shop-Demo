@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Music.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Movie.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Cart.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Music.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Movie.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Cart.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{629A064F-7E45-4A45-B4D3-07CA37193F56}|Project_OOP\\Project_OOP.vcxproj|solutionrelative:Project_OOP\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 166,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\Product.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.cpp",
+              "RelativeToolTip": "Project_OOP\\Product.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:38:26.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Music.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\Music.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.cpp",
+              "RelativeToolTip": "Project_OOP\\Music.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:38:23.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Movie.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\Movie.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.cpp",
+              "RelativeToolTip": "Project_OOP\\Movie.cpp",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:38:16.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\main.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\main.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\main.cpp",
+              "RelativeToolTip": "Project_OOP\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:37:55.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cart.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\Cart.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.cpp",
+              "RelativeToolTip": "Project_OOP\\Cart.cpp",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAAAFUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:37:37.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.cpp",
+              "RelativeDocumentMoniker": "Project_OOP\\Book.cpp",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.cpp",
+              "RelativeToolTip": "Project_OOP\\Book.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-11T19:37:33.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.h",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.h",
+              "RelativeDocumentMoniker": "Project_OOP\\Product.h",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Product.h",
+              "RelativeToolTip": "Project_OOP\\Product.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:37:23.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Music.h",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.h",
+              "RelativeDocumentMoniker": "Project_OOP\\Music.h",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Music.h",
+              "RelativeToolTip": "Project_OOP\\Music.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:37:21.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Movie.h",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.h",
+              "RelativeDocumentMoniker": "Project_OOP\\Movie.h",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Movie.h",
+              "RelativeToolTip": "Project_OOP\\Movie.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:37:18.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.h",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.h",
+              "RelativeDocumentMoniker": "Project_OOP\\Cart.h",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Cart.h",
+              "RelativeToolTip": "Project_OOP\\Cart.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:37:13.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.h",
+              "RelativeDocumentMoniker": "Project_OOP\\Book.h",
+              "ToolTip": "C:\\Users\\Semir\\Desktop\\C-Plus-Plus-Online-Shop-Demo\\Project_OOP\\Project_OOP\\Project_OOP\\Book.h",
+              "RelativeToolTip": "Project_OOP\\Book.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-10-11T19:37:05.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
